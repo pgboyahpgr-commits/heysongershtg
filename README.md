@@ -1,16 +1,16 @@
-# 🎵 **HeySongers** – The Ultimate Free Music Streaming App
+# 🎵 **HeySongers** – Free Music Streaming App | No Ads, Offline, Open Source
 
-> *Stream any song, download for offline listening, and enjoy the best free music experience – powered by YouTube Music & YouTube.*
+> *Stream any song free, download for offline listening, and enjoy ad-free music – powered by YouTube Music & YouTube. The best free Spotify alternative for Android and Windows.*
 
 ---
 
-HeySonger is a **free, open-source music streaming app** built with Flutter. It lets you stream any song from YouTube Music and YouTube, download tracks for offline playback, and enjoy a beautiful, smooth UI – all without paying a single penny. Available for **Android** and **Windows** right now, with more platforms and features coming soon!
+**HeySongers** is a **free, open-source music streaming app** built with Flutter. It lets you stream any song from YouTube Music and YouTube, download tracks for offline playback, and enjoy a beautiful, smooth UI – **no subscription, no ads, no tracking**. Available for **Android APK** and **Windows EXE** right now, with iOS and Linux coming soon. If you're looking for a **free Spotify alternative**, **offline music player**, or **YouTube Music client**, HeySongers is the app for you.
 
 ---
 
 ## 📸 Preview
 
-![HeySonger Preview](https://ibb.co/FbFktTMp)
+![HeySongers - Free Music Streaming App for Android and Windows](https://ibb.co/FbFktTMp)
 
 ---
 
@@ -40,8 +40,8 @@ HeySonger is a **free, open-source music streaming app** built with Flutter. It 
 
 | Platform | Download Link |
 |----------|---------------|
-| 🤖 **Android** | [Download APK](https://github.com/pgboyahpgr-commits/heysongershtg/releases/latest) |
-| 🖥️ **Windows** | [Download EXE](https://github.com/pgboyahpgr-commits/heysongershtg/releases/latest) |
+| 🤖 **Android APK** | [Download Free Music Player for Android](https://github.com/pgboyahpgr-commits/heysongershtg/releases/latest) |
+| 🖥️ **Windows EXE** | [Download Free Music Player for Windows](https://github.com/pgboyahpgr-commits/heysongershtg/releases/latest) |
 | 🍏 **iOS** | *(Coming Soon)* |
 | 🐧 **Linux** | *(Coming Soon)* |
 
@@ -49,7 +49,7 @@ HeySonger is a **free, open-source music streaming app** built with Flutter. It 
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Flutter (Dart)
+- **Framework:** Flutter (Dart) – cross-platform app development
 - **Music Source:** YouTube Music API / YouTube
 - **Audio Playback:** `just_audio` + `audio_service`
 - **Offline Storage:** `hive` / `sqflite`
@@ -90,7 +90,7 @@ flutter build windows --release
 
 ---
 
-## 🎯 Why HeySonger?
+## 🎯 Why HeySongers?
 
 - **100% Free** – No subscription fees, no hidden costs, no ads
 - **Offline First** – Download your favorite tracks and listen without internet
@@ -98,6 +98,8 @@ flutter build windows --release
 - **Cross-Platform** – One codebase, multiple devices
 - **Privacy Focused** – No tracking, no data selling
 - **Open Source** – Contribute, modify, and improve
+
+HeySongers is the **best free music streaming app** for anyone who wants **unlimited music without paying**. Unlike Spotify or Apple Music, there are **no subscription fees**. Unlike free tiers of other services, there are **no ads**. Just pure, uninterrupted music.
 
 ---
 
@@ -129,13 +131,9 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 ---
 
-
-
----
-
 ## 🙏 Credits
 
-**HeySonger** is created and managed by:
+**HeySongers** is created and managed by:
 
 ### **Ruthvik Pedapondara** (geethudinoyt)
 
@@ -166,3 +164,7 @@ Special thanks to the amazing Flutter community and all contributors who make pr
 ---
 
 > **Note:** This app uses YouTube's services for music streaming. Please respect copyright laws and use responsibly. This project is for educational purposes only.
+
+---
+
+**Keywords:** free music streaming app, open source music player, Flutter music app, YouTube Music client, offline music player, Android music app, Windows music player, no ads music app, Spotify alternative, free music downloader, YouTube Music downloader, ad-free music streaming, privacy-focused music app
